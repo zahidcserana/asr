@@ -22,7 +22,6 @@ If running locally, install ffmpeg:
 ```bash
 sudo apt install ffmpeg
 ```
-[More info](https://ffmpeg.org/download.html)
 
 ## Run Instructions
 
@@ -30,7 +29,7 @@ sudo apt install ffmpeg
 pip install -r requirements.txt
 cp dev.env .env
 python src/app.py
-python run.py
+#python run.py
 ```
 
 ## Testing
